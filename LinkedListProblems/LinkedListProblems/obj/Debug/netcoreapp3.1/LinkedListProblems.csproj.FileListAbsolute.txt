@@ -1,0 +1,14 @@
+C:\Users\Lenovo\Desktop\Linked List Operations\LinkedListProblems\LinkedListProblems\bin\Debug\netcoreapp3.1\LinkedListProblems.exe
+C:\Users\Lenovo\Desktop\Linked List Operations\LinkedListProblems\LinkedListProblems\bin\Debug\netcoreapp3.1\LinkedListProblems.deps.json
+C:\Users\Lenovo\Desktop\Linked List Operations\LinkedListProblems\LinkedListProblems\bin\Debug\netcoreapp3.1\LinkedListProblems.runtimeconfig.json
+C:\Users\Lenovo\Desktop\Linked List Operations\LinkedListProblems\LinkedListProblems\bin\Debug\netcoreapp3.1\LinkedListProblems.runtimeconfig.dev.json
+C:\Users\Lenovo\Desktop\Linked List Operations\LinkedListProblems\LinkedListProblems\bin\Debug\netcoreapp3.1\LinkedListProblems.dll
+C:\Users\Lenovo\Desktop\Linked List Operations\LinkedListProblems\LinkedListProblems\bin\Debug\netcoreapp3.1\LinkedListProblems.pdb
+C:\Users\Lenovo\Desktop\Linked List Operations\LinkedListProblems\LinkedListProblems\obj\Debug\netcoreapp3.1\LinkedListProblems.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Linked List Operations\LinkedListProblems\LinkedListProblems\obj\Debug\netcoreapp3.1\LinkedListProblems.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\Linked List Operations\LinkedListProblems\LinkedListProblems\obj\Debug\netcoreapp3.1\LinkedListProblems.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\Linked List Operations\LinkedListProblems\LinkedListProblems\obj\Debug\netcoreapp3.1\LinkedListProblems.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Linked List Operations\LinkedListProblems\LinkedListProblems\obj\Debug\netcoreapp3.1\LinkedListProblems.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Linked List Operations\LinkedListProblems\LinkedListProblems\obj\Debug\netcoreapp3.1\LinkedListProblems.dll
+C:\Users\Lenovo\Desktop\Linked List Operations\LinkedListProblems\LinkedListProblems\obj\Debug\netcoreapp3.1\LinkedListProblems.pdb
+C:\Users\Lenovo\Desktop\Linked List Operations\LinkedListProblems\LinkedListProblems\obj\Debug\netcoreapp3.1\LinkedListProblems.genruntimeconfig.cache
